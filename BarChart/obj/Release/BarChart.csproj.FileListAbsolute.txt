@@ -1,0 +1,7 @@
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\BarChart\bin\Release\BarChart.exe.config
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\BarChart\bin\Release\BarChart.exe
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\BarChart\bin\Release\BarChart.pdb
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\BarChart\obj\Release\BarChart.csproj.SuggestedBindingRedirects.cache
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\BarChart\obj\Release\BarChart.csproj.CoreCompileInputs.cache
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\BarChart\obj\Release\BarChart.exe
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\BarChart\obj\Release\BarChart.pdb

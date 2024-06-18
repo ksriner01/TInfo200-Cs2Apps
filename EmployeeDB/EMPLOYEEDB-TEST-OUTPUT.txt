@@ -1,0 +1,62 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20220212221149
+Username: KYLE-PC\ksrin
+RunAs User: KYLE-PC\ksrin
+Configuration Name: 
+Machine: KYLE-PC (Microsoft Windows NT 10.0.19042.0)
+Host Application: C:\WINDOWS\SysWOW64\WindowsPowerShell\v1.0\powershell.exe -NoExit -Command & { Import-Module 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\Tools\Microsoft.VisualStudio.DevShell.dll'; Enter-VsDevShell -SetDefaultWindowTitle -InstallPath 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise' -StartInPath 'C:\Users\ksrin\Documents\TINFO200\Cs2Apps' }
+Process ID: 9280
+PSVersion: 5.1.19041.1237
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.1237
+BuildVersion: 10.0.19041.1237
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is EMPLOYEEDB-TEST-OUTPUT.txt
+PS C:\Users\ksrin\Documents\TINFO200\Cs2Apps\EmployeeDB> .\bin\Debug\EmployeeDB.exe
+
+Welcome to the EmployeeDB program! This program reads in the first name,
+last name, and monthly salary of three employees. The program then outputs
+the employees' first and last names along with their yearly salary. Finally,
+each employee is given a 10 percent raise and have their first and last names
+outputted along with their new yearly pay after the raise.
+
+Employees Yearly Salary:
+John Smith $0.00
+Jane Doe $73,992.00
+Freddy Fazbear $90,000.00
+
+Employees Yearly Salary After 10% Raise:
+John Smith $0.00
+Jane Doe $81,391.20
+Freddy Fazbear $99,000.00
+
+Thank you for using the EmployeeDB program!
+PS C:\Users\ksrin\Documents\TINFO200\Cs2Apps\EmployeeDB> .\bin\Release\EmployeeDB.exe
+
+Welcome to the EmployeeDB program! This program reads in the first name,
+last name, and monthly salary of three employees. The program then outputs
+the employees' first and last names along with their yearly salary. Finally,
+each employee is given a 10 percent raise and have their first and last names
+outputted along with their new yearly pay after the raise.
+
+Employees Yearly Salary:
+John Smith $0.00
+Jane Doe $73,992.00
+Freddy Fazbear $90,000.00
+
+Employees Yearly Salary After 10% Raise:
+John Smith $0.00
+Jane Doe $81,391.20
+Freddy Fazbear $99,000.00
+
+Thank you for using the EmployeeDB program!
+PS C:\Users\ksrin\Documents\TINFO200\Cs2Apps\EmployeeDB> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20220212221215
+**********************

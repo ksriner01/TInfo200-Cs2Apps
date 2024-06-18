@@ -1,0 +1,7 @@
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\AITeacher\bin\Release\AITeacher.exe.config
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\AITeacher\bin\Release\AITeacher.exe
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\AITeacher\bin\Release\AITeacher.pdb
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\AITeacher\obj\Release\AITeacher.csproj.SuggestedBindingRedirects.cache
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\AITeacher\obj\Release\AITeacher.csproj.CoreCompileInputs.cache
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\AITeacher\obj\Release\AITeacher.exe
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\AITeacher\obj\Release\AITeacher.pdb

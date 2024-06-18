@@ -1,0 +1,7 @@
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\GuessTheNumber\obj\Debug\GuessTheNumber.exe
+C:\Users\ksrin\Documents\TINFO200\Cs2Apps\GuessTheNumber\obj\Debug\GuessTheNumber.pdb

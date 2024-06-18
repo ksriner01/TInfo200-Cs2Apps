@@ -1,0 +1,194 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20220212221408
+Username: KYLE-PC\ksrin
+RunAs User: KYLE-PC\ksrin
+Configuration Name: 
+Machine: KYLE-PC (Microsoft Windows NT 10.0.19042.0)
+Host Application: C:\WINDOWS\SysWOW64\WindowsPowerShell\v1.0\powershell.exe -NoExit -Command & { Import-Module 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\Tools\Microsoft.VisualStudio.DevShell.dll'; Enter-VsDevShell -SetDefaultWindowTitle -InstallPath 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise' -StartInPath 'C:\Users\ksrin\Documents\TINFO200\Cs2Apps' }
+Process ID: 9280
+PSVersion: 5.1.19041.1237
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.1237
+BuildVersion: 10.0.19041.1237
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is GUESSTHENUMBER-TEST-OUTPUT.txt
+PS C:\Users\ksrin\Documents\TINFO200\Cs2Apps\GuessTheNumber> .\bin\Debug\GuessTheNumber.exe
+
+Welcome to the GuessTheNumber program! This program will generate a random
+number between 1 and 1000 that you will proceed to attempt to guess. You will
+be informed as to if your guess was too high or too low and will be prompted
+for a new guess. This will continue until you guess the number correctly.
+
+Guess a number between 1 and 1000: 500
+Too high. Try again.
+Please enter a new guess: 250
+Too low. Try again.
+Please enter a new guess: 400
+Too low. Try again.
+Please enter a new guess: 450
+Too low. Try again.
+Please enter a new guess: 475
+Too low. Try again.
+Please enter a new guess: 485
+Too low. Try again.
+Please enter a new guess: 490
+Too high. Try again.
+Please enter a new guess: 486
+Too low. Try again.
+Please enter a new guess: 487
+Too low. Try again.
+Please enter a new guess: 488
+Congratulations, you guessed the number!
+PS C:\Users\ksrin\Documents\TINFO200\Cs2Apps\GuessTheNumber> .\bin\Debug\GuessTheNumber.exe
+
+Welcome to the GuessTheNumber program! This program will generate a random
+number between 1 and 1000 that you will proceed to attempt to guess. You will
+be informed as to if your guess was too high or too low and will be prompted
+for a new guess. This will continue until you guess the number correctly.
+
+Guess a number between 1 and 1000: 500
+Too high. Try again.
+Please enter a new guess: 250
+Too low. Try again.
+Please enter a new guess: 400
+Too high. Try again.
+Please enter a new guess: 350
+Too high. Try again.
+Please enter a new guess: 300
+Too low. Try again.
+Please enter a new guess: 325
+Too high. Try again.
+Please enter a new guess: 315
+Too high. Try again.
+Please enter a new guess: 305
+Too high. Try again.
+Please enter a new guess: 301
+Too low. Try again.
+Please enter a new guess: 302
+Too low. Try again.
+Please enter a new guess: 303
+Congratulations, you guessed the number!
+PS C:\Users\ksrin\Documents\TINFO200\Cs2Apps\GuessTheNumber> .\bin\Debug\GuessTheNumber.exe
+
+Welcome to the GuessTheNumber program! This program will generate a random
+number between 1 and 1000 that you will proceed to attempt to guess. You will
+be informed as to if your guess was too high or too low and will be prompted
+for a new guess. This will continue until you guess the number correctly.
+
+Guess a number between 1 and 1000: 500
+Too low. Try again.
+Please enter a new guess: 750
+Too high. Try again.
+Please enter a new guess: 600
+Too low. Try again.
+Please enter a new guess: 650
+Too low. Try again.
+Please enter a new guess: 700
+Too low. Try again.
+Please enter a new guess: 725
+Too high. Try again.
+Please enter a new guess: 710
+Too high. Try again.
+Please enter a new guess: 705
+Too high. Try again.
+Please enter a new guess: 702
+Too low. Try again.
+Please enter a new guess: 704
+Too high. Try again.
+Please enter a new guess: 703
+Congratulations, you guessed the number!
+PS C:\Users\ksrin\Documents\TINFO200\Cs2Apps\GuessTheNumber> .\bin\Release\GuessTheNumber.exe
+
+Welcome to the GuessTheNumber program! This program will generate a random
+number between 1 and 1000 that you will proceed to attempt to guess. You will
+be informed as to if your guess was too high or too low and will be prompted
+for a new guess. This will continue until you guess the number correctly.
+
+Guess a number between 1 and 1000: 500
+Too high. Try again.
+Please enter a new guess: 250
+Too low. Try again.
+Please enter a new guess: 450
+Too high. Try again.
+Please enter a new guess: 350
+Too low. Try again.
+Please enter a new guess: 400
+Too low. Try again.
+Please enter a new guess: 425
+Too high. Try again.
+Please enter a new guess: 410
+Too high. Try again.
+Please enter a new guess: 4105
+Too high. Try again.
+Please enter a new guess: 401
+Too low. Try again.
+Please enter a new guess: 408
+Congratulations, you guessed the number!
+PS C:\Users\ksrin\Documents\TINFO200\Cs2Apps\GuessTheNumber> .\bin\Release\GuessTheNumber.exe
+
+Welcome to the GuessTheNumber program! This program will generate a random
+number between 1 and 1000 that you will proceed to attempt to guess. You will
+be informed as to if your guess was too high or too low and will be prompted
+for a new guess. This will continue until you guess the number correctly.
+
+Guess a number between 1 and 1000: 500
+Too high. Try again.
+Please enter a new guess: 250
+Too low. Try again.
+Please enter a new guess: 400
+Too high. Try again.
+Please enter a new guess: 300
+Too low. Try again.
+Please enter a new guess: 350
+Too low. Try again.
+Please enter a new guess: 375
+Too low. Try again.
+Please enter a new guess: 390
+Too low. Try again.
+Please enter a new guess: 395
+Too low. Try again.
+Please enter a new guess: 397
+Too low. Try again.
+Please enter a new guess: 399
+Too high. Try again.
+Please enter a new guess: 398
+Congratulations, you guessed the number!
+PS C:\Users\ksrin\Documents\TINFO200\Cs2Apps\GuessTheNumber> .\bin\Release\GuessTheNumber.exe
+
+Welcome to the GuessTheNumber program! This program will generate a random
+number between 1 and 1000 that you will proceed to attempt to guess. You will
+be informed as to if your guess was too high or too low and will be prompted
+for a new guess. This will continue until you guess the number correctly.
+
+Guess a number between 1 and 1000: 500
+Too high. Try again.
+Please enter a new guess: 250
+Too high. Try again.
+Please enter a new guess: 150
+Too low. Try again.
+Please enter a new guess: 200
+Too low. Try again.
+Please enter a new guess: 225
+Too high. Try again.
+Please enter a new guess: 215
+Too high. Try again.
+Please enter a new guess: 205
+Too low. Try again.
+Please enter a new guess: 210
+Too low. Try again.
+Please enter a new guess: 214
+Too high. Try again.
+Please enter a new guess: 213
+Too high. Try again.
+Please enter a new guess: 212
+Congratulations, you guessed the number!
+PS C:\Users\ksrin\Documents\TINFO200\Cs2Apps\GuessTheNumber> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20220212221654
+**********************

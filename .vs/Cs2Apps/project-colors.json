@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f91e2087-dedd-4e66-8e11-70b5ebc1cb1c": {
+      "ProjectGuid": "f91e2087-dedd-4e66-8e11-70b5ebc1cb1c",
+      "DisplayName": "EmployeeDB",
+      "ColorIndex": 0
+    },
+    "7734a149-b491-43db-9756-75fd2e02fec3": {
+      "ProjectGuid": "7734a149-b491-43db-9756-75fd2e02fec3",
+      "DisplayName": "BarChart",
+      "ColorIndex": 1
+    },
+    "dcf6c4d2-7b75-4a6d-bc66-8bb9ece6f1dc": {
+      "ProjectGuid": "dcf6c4d2-7b75-4a6d-bc66-8bb9ece6f1dc",
+      "DisplayName": "GuessTheNumber",
+      "ColorIndex": 2
+    },
+    "15be2c9d-786f-48fb-a431-70ca0f259398": {
+      "ProjectGuid": "15be2c9d-786f-48fb-a431-70ca0f259398",
+      "DisplayName": "AITeacher",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

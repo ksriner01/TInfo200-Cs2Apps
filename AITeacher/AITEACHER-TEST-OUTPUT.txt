@@ -1,0 +1,192 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20220212221954
+Username: KYLE-PC\ksrin
+RunAs User: KYLE-PC\ksrin
+Configuration Name: 
+Machine: KYLE-PC (Microsoft Windows NT 10.0.19042.0)
+Host Application: C:\WINDOWS\SysWOW64\WindowsPowerShell\v1.0\powershell.exe -NoExit -Command & { Import-Module 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\Tools\Microsoft.VisualStudio.DevShell.dll'; Enter-VsDevShell -SetDefaultWindowTitle -InstallPath 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise' -StartInPath 'C:\Users\ksrin\Documents\TINFO200\Cs2Apps' }
+Process ID: 9280
+PSVersion: 5.1.19041.1237
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.1237
+BuildVersion: 10.0.19041.1237
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is AITEACHER-TEST-OUTPUT.txt
+PS C:\Users\ksrin\Documents\TINFO200\Cs2Apps\AITeacher> .\bin\Debug\AITeacher.exe
+
+Welcome to the AITeacher program! This program will help an elementary school student
+learn simple multiplication. Two random single digit numbers will be generated and the
+student will be asked to solve a multiplication problem of the two numbers. If they
+get the problem incorrect, they will be prompted to try again until the provide the
+correct answer. Once the correct answer is given, the student will be asked if they would
+like to solve another problem. So long as they answer Y for yes they will continue to
+be given new problems. If they answer N for no, the program will quit.
+
+How much is 9 times 6?
+52
+No. Please try again.
+46
+No. Please try again.
+54
+Very good!
+Would you like to solve another problem? [Y/N]: Y
+How much is 6 times 8?
+47
+No. Please try again.
+46
+No. Please try again.
+48
+Very good!
+Would you like to solve another problem? [Y/N]: a
+You did not enter an appropriate Y or N value.
+Would you like to solve another problem? [Y/N]: v
+You did not enter an appropriate Y or N value.
+Would you like to solve another problem? [Y/N]: b
+You did not enter an appropriate Y or N value.
+Would you like to solve another problem? [Y/N]: N
+
+Thank you for using AITeacher!
+PS C:\Users\ksrin\Documents\TINFO200\Cs2Apps\AITeacher> .\bin\Debug\AITeacher.exe
+
+Welcome to the AITeacher program! This program will help an elementary school student
+learn simple multiplication. Two random single digit numbers will be generated and the
+student will be asked to solve a multiplication problem of the two numbers. If they
+get the problem incorrect, they will be prompted to try again until the provide the
+correct answer. Once the correct answer is given, the student will be asked if they would
+like to solve another problem. So long as they answer Y for yes they will continue to
+be given new problems. If they answer N for no, the program will quit.
+
+How much is 4 times 3?
+12
+Very good!
+Would you like to solve another problem? [Y/N]: Y
+How much is 3 times 2?
+6
+Very good!
+Would you like to solve another problem? [Y/N]: a
+You did not enter an appropriate Y or N value.
+Would you like to solve another problem? [Y/N]: d
+You did not enter an appropriate Y or N value.
+Would you like to solve another problem? [Y/N]: f
+You did not enter an appropriate Y or N value.
+Would you like to solve another problem? [Y/N]: N
+
+Thank you for using AITeacher!
+PS C:\Users\ksrin\Documents\TINFO200\Cs2Apps\AITeacher> .\bin\Debug\AITeacher.exe
+
+Welcome to the AITeacher program! This program will help an elementary school student
+learn simple multiplication. Two random single digit numbers will be generated and the
+student will be asked to solve a multiplication problem of the two numbers. If they
+get the problem incorrect, they will be prompted to try again until the provide the
+correct answer. Once the correct answer is given, the student will be asked if they would
+like to solve another problem. So long as they answer Y for yes they will continue to
+be given new problems. If they answer N for no, the program will quit.
+
+How much is 1 times 2?
+2
+Very good!
+Would you like to solve another problem? [Y/N]: Y
+How much is 5 times 5?
+15
+No. Please try again.
+23
+No. Please try again.
+25
+Very good!
+Would you like to solve another problem? [Y/N]: a
+You did not enter an appropriate Y or N value.
+Would you like to solve another problem? [Y/N]: g1
+You did not enter an appropriate Y or N value.
+Would you like to solve another problem? [Y/N]: 2
+You did not enter an appropriate Y or N value.
+Would you like to solve another problem? [Y/N]: 3
+You did not enter an appropriate Y or N value.
+Would you like to solve another problem? [Y/N]: N
+
+Thank you for using AITeacher!
+PS C:\Users\ksrin\Documents\TINFO200\Cs2Apps\AITeacher> .\bin\Release\AITeacher.exe
+
+Welcome to the AITeacher program! This program will help an elementary school student
+learn simple multiplication. Two random single digit numbers will be generated and the
+student will be asked to solve a multiplication problem of the two numbers. If they
+get the problem incorrect, they will be prompted to try again until the provide the
+correct answer. Once the correct answer is given, the student will be asked if they would
+like to solve another problem. So long as they answer Y for yes they will continue to
+be given new problems. If they answer N for no, the program will quit.
+
+How much is 7 times 9?
+61
+No. Please try again.
+63
+Very good!
+Would you like to solve another problem? [Y/N]: Y
+How much is 8 times 8?
+64
+Very good!
+Would you like to solve another problem? [Y/N]: a
+You did not enter an appropriate Y or N value.
+Would you like to solve another problem? [Y/N]: 1
+You did not enter an appropriate Y or N value.
+Would you like to solve another problem? [Y/N]: 2
+You did not enter an appropriate Y or N value.
+Would you like to solve another problem? [Y/N]: N
+
+Thank you for using AITeacher!
+PS C:\Users\ksrin\Documents\TINFO200\Cs2Apps\AITeacher> .\bin\Release\AITeacher.exe
+
+Welcome to the AITeacher program! This program will help an elementary school student
+learn simple multiplication. Two random single digit numbers will be generated and the
+student will be asked to solve a multiplication problem of the two numbers. If they
+get the problem incorrect, they will be prompted to try again until the provide the
+correct answer. Once the correct answer is given, the student will be asked if they would
+like to solve another problem. So long as they answer Y for yes they will continue to
+be given new problems. If they answer N for no, the program will quit.
+
+How much is 7 times 6?
+42
+Very good!
+Would you like to solve another problem? [Y/N]: Y
+How much is 4 times 2?
+7
+No. Please try again.
+8
+Very good!
+Would you like to solve another problem? [Y/N]: a
+You did not enter an appropriate Y or N value.
+Would you like to solve another problem? [Y/N]: 2
+You did not enter an appropriate Y or N value.
+Would you like to solve another problem? [Y/N]: N
+
+Thank you for using AITeacher!
+PS C:\Users\ksrin\Documents\TINFO200\Cs2Apps\AITeacher> .\bin\Release\AITeacher.exe
+
+Welcome to the AITeacher program! This program will help an elementary school student
+learn simple multiplication. Two random single digit numbers will be generated and the
+student will be asked to solve a multiplication problem of the two numbers. If they
+get the problem incorrect, they will be prompted to try again until the provide the
+correct answer. Once the correct answer is given, the student will be asked if they would
+like to solve another problem. So long as they answer Y for yes they will continue to
+be given new problems. If they answer N for no, the program will quit.
+
+How much is 3 times 5?
+15
+Very good!
+Would you like to solve another problem? [Y/N]: a
+You did not enter an appropriate Y or N value.
+Would you like to solve another problem? [Y/N]: Y
+How much is 3 times 8?
+24
+Very good!
+Would you like to solve another problem? [Y/N]: N
+
+Thank you for using AITeacher!
+PS C:\Users\ksrin\Documents\TINFO200\Cs2Apps\AITeacher> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20220212222241
+**********************
